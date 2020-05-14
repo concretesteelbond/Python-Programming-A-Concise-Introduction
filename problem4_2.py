@@ -24,4 +24,4 @@ def problem4_2(ran_list):
     print(statistics.mean(ran_list))
     print(statistics.stdev(ran_list))
 
-print(problem4_2([1,2,3,4,5]))
+problem4_2([1,2,3,4,5])
